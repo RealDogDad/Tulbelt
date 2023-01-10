@@ -1,10 +1,11 @@
-# toolbag
-A Bag of Tools
-A multidimensional hyperspace portal.
-These tools are for use by users/meembers of the [TRT] 'The Round Table' Discord server. 
+# A Bag of Tools
 
-Applications for invite to Discord private server. We accept request on the 1st of every month.
+This bag is a library of tools to use in various projects.
+It is being built/used to become familiar with GitHub and other programing/development cycles. 
 
-Shady's first push!
 
-Blue Red Yello Green Red
+Applications for invite to the Discord private server are avaliable. We accept request on the 1st of every month.
+
+- ###### Lead Developer - RealDogDad
+- ###### Lead Programer - DrewTycoon
+- ###### UX/UI - design-maddie
