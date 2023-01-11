@@ -14,5 +14,5 @@ A simple, yet effective project to scrape website catalogue data to conduct pric
 
 [![GitHub RealDogDad](https://img.shields.io/badge/GitHub-@RealDogDad-181717?style=for-the-badge&logo=github)](https://github.com/RealDogDad)
 [![GitHub DrewTycoon](https://img.shields.io/badge/GitHub-@DrewTycoon-181717?style=for-the-badge&logo=github)](https://github.com/DrewTycoon)
-[![GitHub design-maddie](https://img.shields.io/badge/GitHub-@'design-maddie'-181717?style=for-the-badge&logo=github)](https://github.com/design-maddie)
+[![GitHub design-maddie](https://img.shields.io/badge/GitHub-@design-maddie-181717?style=for-the-badge&logo=github)](https://github.com/design-maddie)
 
